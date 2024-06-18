@@ -30,11 +30,11 @@ GitHub is a web-based remote repository hosting service where developers can sto
 
 A GitHub repository is a centralized location on GitHub where you can store and manage your code, files, and project data.
 
-To create a new GitHub repository, simply navigate to the homepage of your GitHub account, which should look like this:
+To create a new GitHub repository, simply navigate to the homepage of your GitHub account, which should look like this:  
 ![GitHub account homepage](image.png)  
-On this part of the homepage, enter the name of the repository you want to create, set its status to either private or public, then click 'Create a new repository'.
+On this part of the homepage, enter the name of the repository you want to create, set its status to either private or public, then click 'Create a new repository'.  
 ![Creating a new repository](image-2.png)  
-On clicking 'Create a new repository', you should be directed to the repository you have created, which looks like this:
+On clicking 'Create a new repository', you should be directed to the repository you have created, which looks like this:  
 ![Created repository](image-3.png)
 
 Essential elements that should be included in your repository are:
@@ -59,11 +59,11 @@ Essential elements that should be included in your repository are:
 In GitHub, a branch is a new/different version of the repository in which the branch is in. Branches are important, especially when multiple people are working on said branch, since one can push changes to a subsidiary branch without interfering with the code in the main branch.
 
 To create a new branch, do the following:
-Click on the button highlighted in yellow below.
+Click on the button highlighted in yellow below.  
 ![Creating a new branch 1](image-4.png)
-It should take you to a page such as the one below.
+It should take you to a page such as the one below.  
 ![Creatign a new branch 2](image-5.png)
-Click on 'New branch'.
+Click on 'New branch'.  
 ![Creating a new branch 3](image-6.png)
 Name your branch, then click on 'Create new branch'.
 
